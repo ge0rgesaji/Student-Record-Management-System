@@ -1,42 +1,42 @@
-#Student Record Management System (C Project)
-
-##Overview
+# Student Record Management System 
+![Made with C](https://img.shields.io/badge/Made%20with-C-blue)
+## Overview
 
 The Student Record Management System is a simple console-based program written in C that allows you to:
 
-*Add student records
+* Add student records
 
-*View all student records
+* View all student records
 
-*Search for a student by roll number
+* Search for a student by roll number
 
-*Delete student records
+* Delete student records
 
 The data is stored in a binary file (Stud.dat) using C structs and file I/O. This project is ideal for learning:
 
-*Structs
+* Structs
 
-*File handling (fopen, fwrite, fread)
+* File handling (fopen, fwrite, fread)
 
-*Functions
+* Functions
 
-*Menu-driven programs
+* Menu-driven programs
 
-##Features
+## Features
 
-*Add New Student: Enter roll number, name, course, and marks.
+* Add New Student: Enter roll number, name, course, and marks.
 
-*View All Students: Displays all records in a tabular format.
+* View All Students: Displays all records in a tabular format.
 
-*Search Student: Find a student by roll number 
+* Search Student: Find a student by roll number 
 
-*Delete Student: Remove a record by roll number 
+* Delete Student: Remove a record by roll number 
 
-*Data stored persistently in Stud.dat (binary file).
+* Data stored persistently in Stud.dat (binary file).
 
-*Clean and formatted table output using printf alignment tricks.
+* Clean and formatted table output using printf alignment tricks.
 
-##How to Compile and Run
+## How to Compile and Run
 1. Compile
 If using GCC:
 ```bash
@@ -47,12 +47,12 @@ gcc main.c -o student_mgmt
 ./student_mgmt
 ```
 
-##Future Improvements
+## Future Improvements
 
-*Add Update Student Details feature.
+* Add Update Student Details feature.
 
-*Add Sorting (by name or marks).
+* Add Sorting (by name or marks).
 
-*Export data to a CSV file for Excel.
+* Export data to a CSV file for Excel.
 
-*Add login system (basic username/password).
+* Add login system (basic username/password).
