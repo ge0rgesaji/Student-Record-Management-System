@@ -1,5 +1,8 @@
 # Student Record Management System 
-![Made with C](https://img.shields.io/badge/Made%20with-C-blue)
+<p align="center">
+<img src="https://img.shields.io/badge/Made%20with-C-blue)">
+</p>
+
 ## Overview
 
 The Student Record Management System is a simple console-based program written in C that allows you to:
